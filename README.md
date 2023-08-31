@@ -1,2 +1,2 @@
 # Bolum-Sonu-Calismasi
-HTML Bölüm Sonu Çalışması
+Patika Dev HTML eğitimi Bölüm Sonu Çalışması
